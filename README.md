@@ -109,6 +109,7 @@ Built using Streamlit with:
 ## Predict Endpoint
 ```bash
 POST /predict
+```
 
 # 📸 Screenshots
 
