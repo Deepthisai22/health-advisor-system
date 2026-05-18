@@ -120,8 +120,7 @@ POST /predict
 
 ![Chatbot](screenshots/chatbot.png)
 
-# 🎥 Project Demo
+## 🚀 Live Project Demo
 
-[Watch Demo Video]# 🎥 Project Demo
+## ▶️ [Click Here to Watch Demo Video](https://drive.google.com/file/d/1TGmoEuK_R2-_VBIL9Bhv6g5OzmxD0j3z/view?usp=drive_link)
 
-[Watch Demo Video]:https://drive.google.com/file/d/1TGmoEuK_R2-_VBIL9Bhv6g5OzmxD0j3z/view?usp=drive_link
