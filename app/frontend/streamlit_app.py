@@ -198,7 +198,7 @@ if page == "Health Prediction":
         }
 
         response = requests.post(
-            "http://127.0.0.1:5000/predict",
+            "https://health-advisor-system-q0t3.onrender.com/predict",
             json=data
         )
 
@@ -282,7 +282,7 @@ elif page == "AI Chatbot":
         }
 
         chatbot_response = requests.post(
-            "http://127.0.0.1:5000/chat",
+            "https://health-advisor-system-q0t3.onrender.com/chat",
             json=chatbot_data
         )
 
